@@ -20,7 +20,7 @@ There are 5 notebooks uploaded for this project:
 4. Findings 
 5. Appendix
 
-Addtionally, the data and fitted_models contain data files required to run these notebooks. A requirements.txt has also been included outlining the modules required for this project. 
+Addtionally, the 'data' and 'fitted_models' folders contain files required to run these notebooks. A requirements.txt has also been included outlining the modules required for this project. 
 
 * PLEASE NOTE: The Modeling notebook requires trained word embeddings for word2vec and GloVe. They can be downloaded from the following links
 * word2vec: https://drive.google.com/file/d/1NtOjkNtbevgg5xWkcop62NYY332tmiJh/view
