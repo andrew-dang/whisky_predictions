@@ -16,7 +16,7 @@ The dataset used for modeling was scraped from The Whisky Advocate website. The 
 There are 5 notebooks uploaded for this project: 
 1. Preprocessing and Cleaning
 2. EDA and Feature Engineering 
-3. Modeling *
+3. Modeling
 4. Findings 
 5. Appendix
 
@@ -26,6 +26,6 @@ Addtionally, the 'data' and 'fitted_models' folders contain files required to ru
 * word2vec: https://drive.google.com/file/d/1NtOjkNtbevgg5xWkcop62NYY332tmiJh/view
 * GloVe: https://huggingface.co/stanfordnlp/glove/resolve/main/glove.6B.zip
 * You may be rquired to copy and paste the GloVe text files into the 'test_data' directory where gensim is installed. You might be able to find that directory through 
-* /.../Libe/site-packages/gensim/test/test_data
+* /.../Libs/site-packages/gensim/test/test_data
 
 If you have any troubles accessing any of the files within this folder, please contact me at andrew.dang94@gmail.com.  
